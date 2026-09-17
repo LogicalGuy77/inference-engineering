@@ -1,0 +1,67 @@
+Linux 6.18.33.2-microsoft-standard-WSL2 (harshit) 	09/17/26 	_x86_64_	(16 CPU)
+
+17:42:54      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:42:55     1000     72759    0.00    0.00    0.00    0.00    0.00     0  python3
+
+17:42:54      UID       PID   cswch/s nvcswch/s  Command
+17:42:55     1000     72759     14.00      0.00  python3
+
+17:42:55      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:42:56     1000     72759    0.00    0.00    0.00    0.00    0.00     0  python3
+
+17:42:55      UID       PID   cswch/s nvcswch/s  Command
+17:42:56     1000     72759     10.00      0.00  python3
+
+17:42:56      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:42:57     1000     72759    0.00    0.00    0.00    0.00    0.00     0  python3
+
+17:42:56      UID       PID   cswch/s nvcswch/s  Command
+17:42:57     1000     72759     10.00      0.00  python3
+
+17:42:57      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:42:58     1000     72759    0.00    0.00    0.00    0.00    0.00     0  python3
+
+17:42:57      UID       PID   cswch/s nvcswch/s  Command
+17:42:58     1000     72759     10.00      0.00  python3
+
+17:42:58      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:42:59     1000     72759    0.00    0.00    0.00    0.00    0.00     0  python3
+
+17:42:58      UID       PID   cswch/s nvcswch/s  Command
+17:42:59     1000     72759     10.00      0.00  python3
+
+17:42:59      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:43:00     1000     72759    0.00    0.00    0.00    0.00    0.00     0  python3
+
+17:42:59      UID       PID   cswch/s nvcswch/s  Command
+17:43:00     1000     72759     10.00      0.00  python3
+
+17:43:00      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:43:01     1000     72759    0.00    0.00    0.00    0.00    0.00     0  python3
+
+17:43:00      UID       PID   cswch/s nvcswch/s  Command
+17:43:01     1000     72759     10.00      0.00  python3
+
+17:43:01      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:43:02     1000     72759    0.00    0.00    0.00    0.00    0.00     0  python3
+
+17:43:01      UID       PID   cswch/s nvcswch/s  Command
+17:43:02     1000     72759     10.00      0.00  python3
+
+17:43:02      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:43:03     1000     72759    0.00    0.00    0.00    0.00    0.00     0  python3
+
+17:43:02      UID       PID   cswch/s nvcswch/s  Command
+17:43:03     1000     72759     10.00      0.00  python3
+
+17:43:03      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:43:04     1000     72759    0.00    0.00    0.00    0.00    0.00     0  python3
+
+17:43:03      UID       PID   cswch/s nvcswch/s  Command
+17:43:04     1000     72759     10.00      0.00  python3
+
+Average:      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+Average:     1000     72759    0.00    0.00    0.00    0.00    0.00     -  python3
+
+Average:      UID       PID   cswch/s nvcswch/s  Command
+Average:     1000     72759     10.40      0.00  python3

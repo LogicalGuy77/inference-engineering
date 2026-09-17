@@ -1,0 +1,89 @@
+Linux 6.18.33.2-microsoft-standard-WSL2 (harshit) 	09/17/26 	_x86_64_	(16 CPU)
+
+18:25:22      UID      TGID       TID    %usr %system  %guest   %wait    %CPU   CPU  Command
+18:25:23     1000     81049         -   96.00    0.00    0.00    0.00   96.00     0  python3
+18:25:23     1000         -     81049   96.00    0.00    0.00    0.00   96.00     0  |__python3
+
+18:25:22      UID      TGID       TID   cswch/s nvcswch/s  Command
+18:25:23     1000     81049         -    109.00      6.00  python3
+18:25:23     1000         -     81049    109.00      6.00  |__python3
+
+18:25:23      UID      TGID       TID    %usr %system  %guest   %wait    %CPU   CPU  Command
+18:25:24     1000     81049         -  100.00    0.00    0.00    0.00  100.00     0  python3
+18:25:24     1000         -     81049  100.00    0.00    0.00    0.00  100.00     0  |__python3
+
+18:25:23      UID      TGID       TID   cswch/s nvcswch/s  Command
+18:25:24     1000     81049         -      0.00      2.00  python3
+18:25:24     1000         -     81049      0.00      2.00  |__python3
+
+18:25:24      UID      TGID       TID    %usr %system  %guest   %wait    %CPU   CPU  Command
+18:25:25     1000     81049         -  100.00    0.00    0.00    0.00  100.00     0  python3
+18:25:25     1000         -     81049  100.00    0.00    0.00    0.00  100.00     0  |__python3
+
+18:25:24      UID      TGID       TID   cswch/s nvcswch/s  Command
+18:25:25     1000     81049         -      0.00     10.00  python3
+18:25:25     1000         -     81049      0.00     10.00  |__python3
+
+18:25:25      UID      TGID       TID    %usr %system  %guest   %wait    %CPU   CPU  Command
+18:25:26     1000     81049         -  100.00    0.00    0.00    0.00  100.00     0  python3
+18:25:26     1000         -     81049  100.00    0.00    0.00    0.00  100.00     0  |__python3
+
+18:25:25      UID      TGID       TID   cswch/s nvcswch/s  Command
+18:25:26     1000     81049         -      0.00      4.00  python3
+18:25:26     1000         -     81049      0.00      4.00  |__python3
+
+18:25:26      UID      TGID       TID    %usr %system  %guest   %wait    %CPU   CPU  Command
+18:25:27     1000     81049         -  101.00    0.00    0.00    0.00  101.00     0  python3
+18:25:27     1000         -     81049  101.00    0.00    0.00    0.00  101.00     0  |__python3
+
+18:25:26      UID      TGID       TID   cswch/s nvcswch/s  Command
+18:25:27     1000     81049         -      0.00      8.00  python3
+18:25:27     1000         -     81049      0.00      8.00  |__python3
+
+18:25:27      UID      TGID       TID    %usr %system  %guest   %wait    %CPU   CPU  Command
+18:25:28     1000     81049         -  100.00    0.00    0.00    0.00  100.00     0  python3
+18:25:28     1000         -     81049  100.00    0.00    0.00    0.00  100.00     0  |__python3
+
+18:25:27      UID      TGID       TID   cswch/s nvcswch/s  Command
+18:25:28     1000     81049         -      0.00      8.00  python3
+18:25:28     1000         -     81049      0.00      8.00  |__python3
+
+18:25:28      UID      TGID       TID    %usr %system  %guest   %wait    %CPU   CPU  Command
+18:25:29     1000     81049         -  100.00    0.00    0.00    0.00  100.00     0  python3
+18:25:29     1000         -     81049  100.00    0.00    0.00    0.00  100.00     0  |__python3
+
+18:25:28      UID      TGID       TID   cswch/s nvcswch/s  Command
+18:25:29     1000     81049         -      0.00      7.00  python3
+18:25:29     1000         -     81049      0.00      7.00  |__python3
+
+18:25:29      UID      TGID       TID    %usr %system  %guest   %wait    %CPU   CPU  Command
+18:25:30     1000     81049         -  100.00    0.00    0.00    0.00  100.00     0  python3
+18:25:30     1000         -     81049  100.00    0.00    0.00    0.00  100.00     0  |__python3
+
+18:25:29      UID      TGID       TID   cswch/s nvcswch/s  Command
+18:25:30     1000     81049         -      0.00      4.00  python3
+18:25:30     1000         -     81049      0.00      4.00  |__python3
+
+18:25:30      UID      TGID       TID    %usr %system  %guest   %wait    %CPU   CPU  Command
+18:25:31     1000     81049         -  100.00    0.00    0.00    0.00  100.00     0  python3
+18:25:31     1000         -     81049  100.00    0.00    0.00    0.00  100.00     0  |__python3
+
+18:25:30      UID      TGID       TID   cswch/s nvcswch/s  Command
+18:25:31     1000     81049         -      0.00      7.00  python3
+18:25:31     1000         -     81049      0.00      7.00  |__python3
+
+18:25:31      UID      TGID       TID    %usr %system  %guest   %wait    %CPU   CPU  Command
+18:25:32     1000     81049         -  100.00    0.00    0.00    0.00  100.00     0  python3
+18:25:32     1000         -     81049  100.00    0.00    0.00    0.00  100.00     0  |__python3
+
+18:25:31      UID      TGID       TID   cswch/s nvcswch/s  Command
+18:25:32     1000     81049         -      0.00      2.00  python3
+18:25:32     1000         -     81049      0.00      2.00  |__python3
+
+Average:      UID      TGID       TID    %usr %system  %guest   %wait    %CPU   CPU  Command
+Average:     1000     81049         -   99.70    0.00    0.00    0.00   99.70     -  python3
+Average:     1000         -     81049   99.70    0.00    0.00    0.00   99.70     -  |__python3
+
+Average:      UID      TGID       TID   cswch/s nvcswch/s  Command
+Average:     1000     81049         -     10.90      5.80  python3
+Average:     1000         -     81049     10.90      5.80  |__python3

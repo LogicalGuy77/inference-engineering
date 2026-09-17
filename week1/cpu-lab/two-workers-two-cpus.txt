@@ -1,0 +1,45 @@
+Linux 6.18.33.2-microsoft-standard-WSL2 (harshit) 	09/17/26 	_x86_64_	(16 CPU)
+
+17:32:14      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:32:15     1000     70698  100.00    0.00    0.00    0.00  100.00     0  python3
+17:32:15     1000     70699   99.00    0.00    0.00    0.00   99.00     1  python3
+
+17:32:15      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:32:16     1000     70698  101.00    0.00    0.00    0.00  101.00     0  python3
+17:32:16     1000     70699  101.00    0.00    0.00    0.00  101.00     1  python3
+
+17:32:16      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:32:17     1000     70698  100.00    0.00    0.00    0.00  100.00     0  python3
+17:32:17     1000     70699  101.00    0.00    0.00    0.00  101.00     1  python3
+
+17:32:17      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:32:18     1000     70698  101.00    0.00    0.00    0.00  101.00     0  python3
+17:32:18     1000     70699  101.00    0.00    0.00    0.00  101.00     1  python3
+
+17:32:18      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:32:19     1000     70698  100.00    0.00    0.00    0.00  100.00     0  python3
+17:32:19     1000     70699  100.00    0.00    0.00    0.00  100.00     1  python3
+
+17:32:19      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:32:20     1000     70698  101.00    0.00    0.00    0.00  101.00     0  python3
+17:32:20     1000     70699  100.00    0.00    0.00    0.00  100.00     1  python3
+
+17:32:20      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:32:21     1000     70698  100.00    0.00    0.00    0.00  100.00     0  python3
+17:32:21     1000     70699  101.00    0.00    0.00    0.00  101.00     1  python3
+
+17:32:21      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:32:22     1000     70698  100.00    0.00    0.00    0.00  100.00     0  python3
+17:32:22     1000     70699  100.00    0.00    0.00    0.00  100.00     1  python3
+
+17:32:22      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:32:23     1000     70698  100.00    0.00    0.00    0.00  100.00     0  python3
+17:32:23     1000     70699  100.00    0.00    0.00    0.00  100.00     1  python3
+
+17:32:23      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:32:24     1000     70698  100.00    0.00    0.00    0.00  100.00     0  python3
+17:32:24     1000     70699  100.00    0.00    0.00    0.00  100.00     1  python3
+
+Average:      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+Average:     1000     70698  100.30    0.00    0.00    0.00  100.30     -  python3
+Average:     1000     70699  100.30    0.00    0.00    0.00  100.30     -  python3

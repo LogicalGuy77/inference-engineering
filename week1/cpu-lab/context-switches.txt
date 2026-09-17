@@ -1,0 +1,45 @@
+Linux 6.18.33.2-microsoft-standard-WSL2 (harshit) 	09/17/26 	_x86_64_	(16 CPU)
+
+17:39:11      UID       PID   cswch/s nvcswch/s  Command
+17:39:12     1000     72016     27.00    119.00  python3
+17:39:12     1000     72017     22.00    123.00  python3
+
+17:39:12      UID       PID   cswch/s nvcswch/s  Command
+17:39:13     1000     72016      0.00    125.00  python3
+17:39:13     1000     72017      0.00    124.00  python3
+
+17:39:13      UID       PID   cswch/s nvcswch/s  Command
+17:39:14     1000     72016      0.00    127.00  python3
+17:39:14     1000     72017      0.00    125.00  python3
+
+17:39:14      UID       PID   cswch/s nvcswch/s  Command
+17:39:15     1000     72016      0.00    125.00  python3
+17:39:15     1000     72017      0.00    125.00  python3
+
+17:39:15      UID       PID   cswch/s nvcswch/s  Command
+17:39:16     1000     72016      0.00    128.00  python3
+17:39:16     1000     72017      0.00    128.00  python3
+
+17:39:16      UID       PID   cswch/s nvcswch/s  Command
+17:39:17     1000     72016      0.00    125.00  python3
+17:39:17     1000     72017      0.00    125.00  python3
+
+17:39:17      UID       PID   cswch/s nvcswch/s  Command
+17:39:18     1000     72016      0.00    126.00  python3
+17:39:18     1000     72017      0.00    127.00  python3
+
+17:39:18      UID       PID   cswch/s nvcswch/s  Command
+17:39:19     1000     72016      0.00    125.00  python3
+17:39:19     1000     72017      0.00    125.00  python3
+
+17:39:19      UID       PID   cswch/s nvcswch/s  Command
+17:39:20     1000     72016      0.00    128.00  python3
+17:39:20     1000     72017      0.00    126.00  python3
+
+17:39:20      UID       PID   cswch/s nvcswch/s  Command
+17:39:21     1000     72016      0.00    125.00  python3
+17:39:21     1000     72017      0.00    125.00  python3
+
+Average:      UID       PID   cswch/s nvcswch/s  Command
+Average:     1000     72016      2.70    125.30  python3
+Average:     1000     72017      2.20    125.30  python3
